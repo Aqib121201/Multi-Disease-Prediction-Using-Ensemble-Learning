@@ -1,0 +1,36 @@
+# Core ML libraries
+scikit-learn==1.3.0
+xgboost==1.7.6
+pandas==2.0.3
+numpy==1.24.3
+
+# Data preprocessing
+imbalanced-learn==0.11.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Web application
+streamlit==1.25.0
+
+# Model explainability
+shap==0.42.1
+
+# Model persistence
+joblib==1.3.2
+
+# Data handling
+requests==2.31.0
+
+# Development and testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Jupyter notebooks
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Additional utilities
+tqdm==4.65.0 
