@@ -436,7 +436,7 @@ pytest tests/test_data_preprocessing.py -v
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{sididqui2024multidisease,
+@misc{siddidqui2024multidisease,
   author       = {Aqib Siddiqui and Vivek Kumar Sehgal and Mazhar Husain},
   title        = {Multi-Disease Prediction Using Ensemble Learning with SHAP Explainability},
   year         = {2024},
