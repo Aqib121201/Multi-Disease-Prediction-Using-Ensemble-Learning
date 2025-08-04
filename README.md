@@ -407,10 +407,6 @@ pytest tests/test_data_preprocessing.py -v
 - **Temporal Drift:** Medical practices and diagnostic criteria evolve over time
 - **Feature Availability:** Clinical features may not be available in all settings
 
-##  PDF Report
-
-[📄 Download Full Academic Report](./report/Thesis_MultiDiseasePrediction.pdf)
-
 ##  Contribution & Acknowledgements
 
 ### Contributors
