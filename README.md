@@ -55,25 +55,31 @@ The system utilizes three publicly available medical datasets from the UCI Machi
 - **Advantage:** Combines computer vision with medical diagnostics; shows ability to work with unstructured image data
 
 
+##  Preprocessing Pipeline
 
-## 🔄 Preprocessing Pipeline
-
-![Preprocessing Pipeline](images/preprocessing_pipeline.png)
-*Figure 1: Preprocessing and Feature Engineering Pipeline*
-
----
-
-## 📊 AUROC Curves for All Disease Models
-
-![AUROC Curves](images/roc_curves_combined.png)
-*Figure 2: Performance Comparison Across Diseases*
+<p align="center">
+  <img src="images/preprocessing_pipeline.png" alt="Preprocessing Pipeline" width="600"/>
+</p>
+<p align="center"><em>Figure 1: Preprocessing and Feature Engineering Pipeline</em></p>
 
 ---
 
-## 🧠 SHAP Explainability for Diabetes Dataset
+## � AUROC Curves for All Disease Models
 
-![SHAP Summary](images/shap_summary.png)
-*Figure 3: SHAP Summary Plot Highlighting Feature Impact*
+<p align="center">
+  <img src="images/roc_curves_combined.png" alt="AUROC Curves" width="600"/>
+</p>
+<p align="center"><em>Figure 2: Performance Comparison Across Diseases</em></p>
+
+---
+
+##  SHAP Explainability for Diabetes Dataset
+
+<p align="center">
+  <img src="images/shap_summary.png" alt="SHAP Summary Plot" width="600"/>
+</p>
+<p align="center"><em>Figure 3: SHAP Summary Plot Highlighting Feature Impact</em></p>
+
 
 
 ##  Methodology
