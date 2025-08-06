@@ -60,16 +60,16 @@ The system utilizes three publicly available medical datasets from the UCI Machi
 <p align="center">
   <img src="images/preprocessing_pipeline.png" alt="Preprocessing Pipeline" width="600"/>
 </p>
-<p align="center"><em>Figure 1: Preprocessing and Feature Engineering Pipeline</em></p>
+<p align="center"><em></em></p>
 
 ---
 
-## � AUROC Curves for All Disease Models
+##  AUROC Curves for All Disease Models
 
 <p align="center">
   <img src="images/roc_curves_combined.png" alt="AUROC Curves" width="600"/>
 </p>
-<p align="center"><em>Figure 2: Performance Comparison Across Diseases</em></p>
+<p align="center"><em></em></p>
 
 ---
 
@@ -78,7 +78,7 @@ The system utilizes three publicly available medical datasets from the UCI Machi
 <p align="center">
   <img src="images/shap_summary.png" alt="SHAP Summary Plot" width="600"/>
 </p>
-<p align="center"><em>Figure 3: SHAP Summary Plot Highlighting Feature Impact</em></p>
+<p align="center"><em></em></p>
 
 
 
