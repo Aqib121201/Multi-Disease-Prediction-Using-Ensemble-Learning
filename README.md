@@ -56,13 +56,25 @@ The system utilizes three publicly available medical datasets from the UCI Machi
 
 
 
-### Preprocessing Pipeline
-1. **Data Cleaning:** Handle missing values using median imputation
-2. **Feature Encoding:** Label encoding for categorical variables
-3. **Feature Scaling:** StandardScaler for numerical features
-4. **Feature Selection:** Mutual information-based selection (top 10 features)
-5. **Class Balancing:** SMOTE for handling imbalanced datasets
-6. **Train-Test Split:** 80-20 stratified split
+## 🔄 Preprocessing Pipeline
+
+![Preprocessing Pipeline](images/preprocessing_pipeline.png)
+*Figure 1: Preprocessing and Feature Engineering Pipeline*
+
+---
+
+## 📊 AUROC Curves for All Disease Models
+
+![AUROC Curves](images/roc_curves_combined.png)
+*Figure 2: Performance Comparison Across Diseases*
+
+---
+
+## 🧠 SHAP Explainability for Diabetes Dataset
+
+![SHAP Summary](images/shap_summary.png)
+*Figure 3: SHAP Summary Plot Highlighting Feature Impact*
+
 
 ##  Methodology
 
